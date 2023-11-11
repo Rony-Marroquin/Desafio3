@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "desafio3",
+    "slug": "desafio3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Icono_notes",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Note-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Icono_notes.png",
+        "backgroundColor": "#487c98"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Icono_notes.png"
+    }
+  }
+}
